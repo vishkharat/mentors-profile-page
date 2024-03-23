@@ -20,7 +20,7 @@ Responsive Design: Ensures compatibility and optimal viewing experience across d
 # Getting Started
 To get started with this project, follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/mentor-profile.git
+Clone the repository: git clone https://github.com/vishkharat/mentors-profile-page
 Navigate to the project directory: cd mentor-profile
 Open the index.html file in your web browser to view the profile page locally.
 ## Usage
